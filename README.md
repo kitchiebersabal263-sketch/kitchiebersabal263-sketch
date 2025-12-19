@@ -27,23 +27,93 @@ I'm an **IT Student** passionate about **Web Development** and **Mobile App Deve
 
 ---
 
-## 📱 Featured Mobile Application
+## 🔪 Featured Project: Knife Detector X - AI-Powered Knife Classification App
 
-### 🎯 **Flutter Mobile App - Scan & Analytics Platform**
+### 🎯 **Flutter + TensorFlow Lite Mobile Application**
 
-A feature-rich mobile application built with Flutter, offering scanning capabilities, analytics dashboard, and comprehensive log management.
+**Knife Detector X** is an advanced AI-powered mobile application that uses machine learning to identify and classify different types of knives in real-time. Built with Flutter and powered by TensorFlow Lite, this app brings professional-grade knife recognition capabilities to smartphones.
 
 <div align="center">
 
-#### 📸 Application Screenshots
+#### 📸 Application UI Screenshots
 
-| Scan Features | Analytics Dashboard | Scan Logs |
+| Scan & Detection | Analytics Dashboard | Scan History & Logs |
 |:---:|:---:|:---:|
-| <img src="screenshots/SCAN_01.jpg" width="200" alt="Scan Screen 1"/> | <img src="screenshots/ANALYTICS_01.jpg" width="200" alt="Analytics Dashboard"/> | <img src="screenshots/SCAN_LOGS_01.jpg" width="200" alt="Scan Logs"/> |
-| <img src="screenshots/SCAN_02.jpg" width="200" alt="Scan Screen 2"/> | <img src="screenshots/ANALYTICS_02.jpg" width="200" alt="Analytics Dashboard 2"/> | <img src="screenshots/SCAN_LOGS_02.jpg" width="200" alt="Scan Logs 2"/> |
-| <img src="screenshots/SCAN_03.jpg" width="200" alt="Scan Screen 3"/> | | |
+| <img src="screenshots/SCAN_01.jpg" width="200" alt="Knife Detection Screen 1"/> | <img src="screenshots/ANALYTICS_01.jpg" width="200" alt="Analytics Dashboard"/> | <img src="screenshots/SCAN_LOGS_01.jpg" width="200" alt="Scan History"/> |
+| <img src="screenshots/SCAN_02.jpg" width="200" alt="Knife Detection Screen 2"/> | <img src="screenshots/ANALYTICS_02.jpg" width="200" alt="Analytics Dashboard 2"/> | <img src="screenshots/SCAN_LOGS_02.jpg" width="200" alt="Scan History 2"/> |
+| <img src="screenshots/SCAN_03.jpg" width="200" alt="Knife Detection Screen 3"/> | | |
 
 </div>
+
+### ✨ **Key Features**
+
+#### 🤖 AI-Powered Detection
+- **On-device TensorFlow Lite model** for instant knife classification
+- **11 knife types supported**: Boning, Karambit, Hunting, Machete, Pocket, Scalpel, Throwing, Bread, Santoku, Kukri, and more
+- **Confidence scoring** with transparent accuracy metrics
+- **Real-time processing** (1-3 seconds per detection)
+- **Works offline** - no internet required for detection
+
+#### 📸 Image Capture & Processing
+- **Dual image sources**: Camera capture and gallery selection
+- **Automatic image preprocessing** and optimization
+- **Visual feedback** with animated scanning overlay
+- **Quality validation** and error handling
+
+#### 📊 Comprehensive Analytics Dashboard
+- **Overview statistics**: Total scans, success rate, average confidence, classes detected
+- **Weekly activity chart**: Track scanning patterns over 7 days
+- **Detection distribution**: Pie chart showing knife type frequency
+- **Class scan trends**: Multi-line chart for trend analysis
+- **Real-time updates** as new scans are added
+
+#### 📝 Detection History & Logs
+- **Complete scan history** with thumbnails and timestamps
+- **Detailed view** for each scan with full prediction breakdown
+- **Status badges**: DETECTED (green) or UNKNOWN (red)
+- **History management**: Delete individual scans or clear all
+- **Chronological sorting** (newest first)
+
+#### ☁️ Cloud Sync with Firebase
+- **Automatic backup** to Firebase Firestore
+- **Cross-device synchronization** (if using same account)
+- **Data persistence** even if app is uninstalled
+- **Real-time updates** when history changes
+
+#### 🎨 Beautiful Modern UI
+- **Neon-themed interface** with dark background
+- **Glass morphism effects** and gradient overlays
+- **Animated particle background** and rotating icons
+- **Smooth animations** and pulsing effects
+- **Intuitive navigation** with bottom tab bar
+
+### 🛠️ **Tech Stack**
+
+**Frontend:**
+- `Flutter` - Cross-platform mobile framework
+- `Dart` - Programming language
+- `Material Design` - UI components
+- `fl_chart` - Data visualization
+- `Google Fonts (Orbitron)` - Typography
+
+**AI/ML:**
+- `TensorFlow Lite` - On-device machine learning
+- `Pre-trained classification model` - Optimized for mobile
+
+**Backend:**
+- `Firebase Core` - App initialization
+- `Cloud Firestore` - Real-time database
+- `Image Picker` - Camera/gallery access
+
+**Repository:** [Knife Classification Final Project](https://github.com/kitchiebersabal263-sketch/Bersabal_Knives_Classification_FinalProject)
+
+---
+
+## 📱 Additional Mobile Application
+
+### 🎯 **Flutter UI Components - Scan & Analytics Platform**
+
+A feature-rich mobile application showcasing reusable Flutter widgets and UI components with scanning capabilities, analytics dashboard, and comprehensive log management.
 
 **Key Features:**
 - ✅ Real-time scanning functionality
@@ -116,7 +186,7 @@ A feature-rich mobile application built with Flutter, offering scanning capabili
 
 | Project | Description | Tech Stack | Repository |
 |:--------|:------------|:-----------|:-----------|
-| **🔪 Knives Classification** | Machine learning project for classifying different types of knives using image recognition | `Python` `ML` `Image Processing` | [View Repo](https://github.com/kitchiebersabal263-sketch/Bersabal_Knives_Classification_FinalProject) |
+| **🔪 Knife Detector X** | AI-powered Flutter mobile app for real-time knife classification using TensorFlow Lite. Features analytics dashboard, scan history, and Firebase cloud sync | `Flutter` `TensorFlow Lite` `Firebase` `Dart` `ML` `Mobile AI` | [View Repo](https://github.com/kitchiebersabal263-sketch/Bersabal_Knives_Classification_FinalProject) |
 
 ### 🗄️ Database & Backend
 
