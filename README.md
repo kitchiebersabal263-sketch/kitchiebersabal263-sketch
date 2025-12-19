@@ -27,6 +27,37 @@ I'm an **IT Student** passionate about **Web Development** and **Mobile App Deve
 
 ---
 
+## 📱 Featured Mobile Application
+
+### 🎯 **Flutter Mobile App - Scan & Analytics Platform**
+
+A feature-rich mobile application built with Flutter, offering scanning capabilities, analytics dashboard, and comprehensive log management.
+
+<div align="center">
+
+#### 📸 Application Screenshots
+
+| Scan Features | Analytics Dashboard | Scan Logs |
+|:---:|:---:|:---:|
+| <img src="screenshots/SCAN_01.jpg" width="200" alt="Scan Screen 1"/> | <img src="screenshots/ANALYTICS_01.jpg" width="200" alt="Analytics Dashboard"/> | <img src="screenshots/SCAN_LOGS_01.jpg" width="200" alt="Scan Logs"/> |
+| <img src="screenshots/SCAN_02.jpg" width="200" alt="Scan Screen 2"/> | <img src="screenshots/ANALYTICS_02.jpg" width="200" alt="Analytics Dashboard 2"/> | <img src="screenshots/SCAN_LOGS_02.jpg" width="200" alt="Scan Logs 2"/> |
+| <img src="screenshots/SCAN_03.jpg" width="200" alt="Scan Screen 3"/> | | |
+
+</div>
+
+**Key Features:**
+- ✅ Real-time scanning functionality
+- ✅ Comprehensive analytics dashboard
+- ✅ Scan history and log management
+- ✅ Modern, intuitive UI/UX design
+- ✅ Cross-platform compatibility (iOS & Android)
+
+**Tech Stack:** `Flutter` `Dart` `Mobile Development` `UI/UX Design`
+
+**Repository:** [Flutter Widget UI Components](https://github.com/kitchiebersabal263-sketch/Flutter_Widget_UIComponents)
+
+---
+
 ## 🛠️ Tech Stack
 
 ### Programming Languages
@@ -75,18 +106,32 @@ I'm an **IT Student** passionate about **Web Development** and **Mobile App Deve
 
 ## 💼 Featured Projects
 
-<div align="center">
+### 📱 Mobile Development
+
+| Project | Description | Tech Stack | Repository |
+|:--------|:------------|:-----------|:-----------|
+| **📱 Flutter UI Components** | Collection of reusable Flutter widgets and UI components with scanning, analytics, and log management features | `Flutter` `Dart` `UI/UX` | [View Repo](https://github.com/kitchiebersabal263-sketch/Flutter_Widget_UIComponents) |
+
+### 🤖 Machine Learning & AI
 
 | Project | Description | Tech Stack | Repository |
 |:--------|:------------|:-----------|:-----------|
 | **🔪 Knives Classification** | Machine learning project for classifying different types of knives using image recognition | `Python` `ML` `Image Processing` | [View Repo](https://github.com/kitchiebersabal263-sketch/Bersabal_Knives_Classification_FinalProject) |
-| **📱 Flutter UI Components** | Collection of reusable Flutter widgets and UI components for mobile app development | `Flutter` `Dart` `UI/UX` | [View Repo](https://github.com/kitchiebersabal263-sketch/Flutter_Widget_UIComponents) |
+
+### 🗄️ Database & Backend
+
+| Project | Description | Tech Stack | Repository |
+|:--------|:------------|:-----------|:-----------|
 | **🗄️ MySQL Trigger Implementation** | Database automation project implementing MySQL triggers for data management | `MySQL` `Database` `SQL` | [View Repo](https://github.com/kitchiebersabal263-sketch/mysql-trigger-implementation-Bersabal) |
+
+### 💻 Academic Projects
+
+| Project | Description | Tech Stack | Repository |
+|:--------|:------------|:-----------|:-----------|
 | **💻 IT120 Activities** | Python programming exercises and projects | `Python` `Programming` | [View Repo](https://github.com/kitchiebersabal263-sketch/Bersabal_IT120_Act1) |
 | **📚 IT108 Activities** | Web development and programming fundamentals | `HTML` `CSS` `JavaScript` | [View Repo](https://github.com/kitchiebersabal263-sketch/BERSABAL_IT108_ACTIVITIES) |
-| **🎓 Final Projects** | Academic final projects showcasing full-stack development skills | `Multiple Technologies` | [View Repos](https://github.com/kitchiebersabal263-sketch?tab=repositories) |
-
-</div>
+| **🎓 CSC106 Final Project** | Final project showcasing full-stack development skills | `Multiple Technologies` | [View Repo](https://github.com/kitchiebersabal263-sketch/CSC106_FinalProject) |
+| **🎓 Final Projects** | Academic final projects | `Multiple Technologies` | [View Repos](https://github.com/kitchiebersabal263-sketch?tab=repositories) |
 
 ---
 
@@ -108,7 +153,7 @@ I'm an **IT Student** passionate about **Web Development** and **Mobile App Deve
 
 <div align="center">
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kitchiebersabal263-sketch&theme=github-dark&hide_border=true&area=true&color=6366F1&line=9333EA&point=FFFFFF&bg_color=0D1117)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kitchiebersabal263-sketch&custom_title=Kitchie's%20Development%20Activity&theme=github-dark&hide_border=true&area=true&color=6366F1&line=9333EA&point=FFFFFF&bg_color=0D1117)
 
 </div>
 
@@ -126,6 +171,7 @@ I'm an **IT Student** passionate about **Web Development** and **Mobile App Deve
 - Cross-platform development with Flutter
 - UI/UX design and implementation
 - Mobile app architecture and best practices
+- Real-time features and analytics integration
 
 ### 🤖 Machine Learning
 - Image classification and recognition
