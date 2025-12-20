@@ -4,24 +4,16 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Kitchie+Bersabal&fontSize=50&animation=twinkling&fontColor=ffffff&fontAlignY=40&desc=Full-Stack+Developer+%7C+UI%2FUX+Designer&descSize=20&descAlignY=65" alt="Header Animation" />
 
-<div align="center">
-
 ### 🌟 **Transforming Ideas into Digital Reality** 🌟
 
 **IT Student · Full-Stack Developer · UI/UX Designer · AI/ML Enthusiast**
 
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-kitchiebersabal263--sketch-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/kitchiebersabal263-sketch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kitchie%20Bersabal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/kitchie-bersabal-67a0b7269)
-[![Telegram](https://img.shields.io/badge/Telegram-@itss_kii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/itss_kii)
-[![Email](https://img.shields.io/badge/Email-kitchie.bersabal@csucc.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:kitchie.bersabal@csucc.edu.ph)
+[![GitHub](https://img.shields.io/badge/GitHub-kitchiebersabal263--sketch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitchiebersabal263-sketch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kitchie%20Bersabal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kitchie-bersabal-67a0b7269)
+[![Telegram](https://img.shields.io/badge/Telegram-@itss_kii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itss_kii)
+[![Email](https://img.shields.io/badge/Email-kitchie.bersabal@csucc.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kitchie.bersabal@csucc.edu.ph)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kitchiebersabal263-sketch&color=6366F1&style=for-the-badge&label=Profile+Views)
-
-</div>
-
-</div>
 
 ---
 
@@ -95,14 +87,10 @@ I'm a creative developer who transforms ideas into functional, beautiful applica
 
 An intelligent mobile application that uses machine learning to identify and classify different types of knives in real-time. Features a modern neon-themed UI, comprehensive analytics, and cloud synchronization.
 
-<div align="center">
-
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitchiebersabal263-sketch/Bersabal_Knives_Classification_FinalProject)
 [![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)](https://firebase.google.com/)
-
-</div>
 
 </div>
 
@@ -130,23 +118,15 @@ An intelligent mobile application that uses machine learning to identify and cla
 
 #### **🔍 Scan & Detection Screens**
 
-<div align="center">
-
 | Scan Screen 1 | Scan Screen 2 | Scan Screen 3 |
 |:-------------:|:-------------:|:-------------:|
-| [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_01.jpg" alt="Scan Screen 1" width="280" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(99, 102, 241, 0.3);" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_01.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_02.jpg" alt="Scan Screen 2" width="280" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(99, 102, 241, 0.3);" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_02.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_03.jpg" alt="Scan Screen 3" width="280" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(99, 102, 241, 0.3);" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_03.jpg) |
-
-</div>
+| [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_01.jpg" alt="Scan Screen 1" width="280" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_01.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_02.jpg" alt="Scan Screen 2" width="280" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_02.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_03.jpg" alt="Scan Screen 3" width="280" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_03.jpg) |
 
 #### **📊 Analytics & History Screens**
 
-<div align="center">
-
 | Analytics Dashboard | Analytics Overview | Scan History | History Logs |
 |:-------------------:|:------------------:|:------------:|:------------:|
-| [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/ANALYTICS_01.jpg" alt="Analytics Dashboard" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(99, 102, 241, 0.3);" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/ANALYTICS_01.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/ANALYTICS_02.jpg" alt="Analytics Overview" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(99, 102, 241, 0.3);" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/ANALYTICS_02.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_LOGS_01.jpg" alt="Scan History" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(99, 102, 241, 0.3);" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_LOGS_01.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_LOGS_02.jpg" alt="History Logs" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(99, 102, 241, 0.3);" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_LOGS_02.jpg) |
-
-</div>
+| [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/ANALYTICS_01.jpg" alt="Analytics Dashboard" width="200" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/ANALYTICS_01.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/ANALYTICS_02.jpg" alt="Analytics Overview" width="200" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/ANALYTICS_02.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_LOGS_01.jpg" alt="Scan History" width="200" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_LOGS_01.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_LOGS_02.jpg" alt="History Logs" width="200" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_LOGS_02.jpg) |
 
 </div>
 
@@ -160,16 +140,16 @@ An intelligent mobile application that uses machine learning to identify and cla
 
 | Knife Type | Preview | Description |
 |:-----------|:-------:|:------------|
-| **🔪 Boning Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Boningknife.jpeg" alt="Boning Knife" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Boningknife.jpeg) | A **flexible, narrow blade** designed for removing bones from meat, ideal for precise cutting tasks. |
-| **🍞 Bread Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Breadknife.jpeg" alt="Bread Knife" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Breadknife.jpeg) | A **serrated blade** with saw-like teeth, perfect for cutting bread and delicate pastries without crushing. |
-| **🏹 Hunting Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Huntingknife.jpeg" alt="Hunting Knife" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Huntingknife.jpeg) | A **robust, durable blade** built for outdoor use, field dressing, and survival situations. |
-| **⚔️ Karambit Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Karambitknife.jpeg" alt="Karambit Knife" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Karambitknife.jpeg) | A **curved, claw-like blade** with origins in Southeast Asia, known for its unique design and versatility. |
-| **🗡️ Kukri** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Kukriknife.jpeg" alt="Kukri" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Kukriknife.jpeg) | A **distinctive curved blade** from Nepal, known for its unique shape and traditional use in various applications. |
-| **🪓 Machete** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Macheteknife.jpeg" alt="Machete" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Macheteknife.jpeg) | A **large, broad blade** used for cutting through vegetation, agricultural work, and heavy-duty tasks. |
-| **🔧 Pocket Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Pocketknife.png" alt="Pocket Knife" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Pocketknife.png) | A **compact, foldable blade** perfect for everyday carry, utility tasks, and portability. |
-| **🍴 Santoku Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Santukoknife.jpeg" alt="Santoku Knife" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Santukoknife.jpeg) | A **Japanese-style all-purpose knife** with a shorter, wider blade, excellent for slicing, dicing, and mincing. |
-| **⚕️ Scalpel** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Scalpelknife.jpeg" alt="Scalpel" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Scalpelknife.jpeg) | A **precise, surgical blade** used in medical procedures, requiring extreme accuracy and sharpness. |
-| **🎯 Throwing Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Throwingknife.jpeg" alt="Throwing Knife" width="160" style="border-radius: 10px;" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Throwingknife.jpeg) | A **balanced, aerodynamic blade** designed specifically for throwing sports and competitions. |
+| **🔪 Boning Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Boningknife.jpeg" alt="Boning Knife" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Boningknife.jpeg) | A **flexible, narrow blade** designed for removing bones from meat, ideal for precise cutting tasks. |
+| **🍞 Bread Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Breadknife.jpeg" alt="Bread Knife" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Breadknife.jpeg) | A **serrated blade** with saw-like teeth, perfect for cutting bread and delicate pastries without crushing. |
+| **🏹 Hunting Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Huntingknife.jpeg" alt="Hunting Knife" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Huntingknife.jpeg) | A **robust, durable blade** built for outdoor use, field dressing, and survival situations. |
+| **⚔️ Karambit Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Karambitknife.jpeg" alt="Karambit Knife" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Karambitknife.jpeg) | A **curved, claw-like blade** with origins in Southeast Asia, known for its unique design and versatility. |
+| **🗡️ Kukri** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Kukriknife.jpeg" alt="Kukri" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Kukriknife.jpeg) | A **distinctive curved blade** from Nepal, known for its unique shape and traditional use in various applications. |
+| **🪓 Machete** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Macheteknife.jpeg" alt="Machete" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Macheteknife.jpeg) | A **large, broad blade** used for cutting through vegetation, agricultural work, and heavy-duty tasks. |
+| **🔧 Pocket Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Pocketknife.png" alt="Pocket Knife" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Pocketknife.png) | A **compact, foldable blade** perfect for everyday carry, utility tasks, and portability. |
+| **🍴 Santoku Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Santukoknife.jpeg" alt="Santoku Knife" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Santukoknife.jpeg) | A **Japanese-style all-purpose knife** with a shorter, wider blade, excellent for slicing, dicing, and mincing. |
+| **⚕️ Scalpel** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Scalpelknife.jpeg" alt="Scalpel" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Scalpelknife.jpeg) | A **precise, surgical blade** used in medical procedures, requiring extreme accuracy and sharpness. |
+| **🎯 Throwing Knife** | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/Knife_classification_Images/BERSABAL_KITCHIE/Throwingknife.jpeg" alt="Throwing Knife" width="160" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/Knife_classification_Images/BERSABAL_KITCHIE/Throwingknife.jpeg) | A **balanced, aerodynamic blade** designed specifically for throwing sports and competitions. |
 
 </div>
 
@@ -199,7 +179,7 @@ An intelligent mobile application that uses machine learning to identify and cla
 <div align="center">
 
 <a href="https://github.com/kitchiebersabal263-sketch">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kitchiebersabal263-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true&hide=issues,prs" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kitchiebersabal263-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/kitchiebersabal263-sketch">
