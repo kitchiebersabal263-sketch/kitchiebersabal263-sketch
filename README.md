@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=6366F1&center=true&vCenter=true&width=800&height=70&lines=✨+Hello%2C+I'm+Kitchie+Awitan+Bersabal+✨;💻+Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+AI%2FML+Enthusiast;🚀+Building+Innovative+Solutions+with+Code+%26+Creativity;🎨+Transforming+Ideas+into+Digital+Reality" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&width=900&height=80&lines=✨+Hello%2C+I'm+Kitchie+Awitan+Bersabal+✨;💻+Full-Stack+Developer+%7C+UI%2FUX+Designer+%7C+AI%2FML+Enthusiast;🚀+Building+Innovative+Solutions+with+Code+%26+Creativity;🎨+Transforming+Ideas+into+Digital+Reality" alt="Typing Animation" />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=Kitchie+Bersabal&fontSize=50&animation=twinkling&fontColor=ffffff&fontAlignY=40&desc=Full-Stack+Developer+%7C+UI%2FUX+Designer&descSize=20&descAlignY=65" alt="Header Animation" />
 
