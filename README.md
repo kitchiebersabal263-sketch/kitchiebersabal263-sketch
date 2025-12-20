@@ -129,7 +129,7 @@ My featured mobile project is **Knife Detector X**, built with **Flutter** and a
 <div align="center">
 
 <!-- Main stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=kitchiebersabal263-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true&hide=issues" alt="Kitchie's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=kitchiebersabal263-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true&hide=issues,prs" alt="Kitchie's GitHub Stats" />
 
 <!-- Top languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kitchiebersabal263-sketch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
