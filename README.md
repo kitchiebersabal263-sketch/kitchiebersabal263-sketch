@@ -179,7 +179,7 @@ An intelligent mobile application that uses machine learning to identify and cla
 <div align="center">
 
 <a href="https://github.com/kitchiebersabal263-sketch">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kitchiebersabal263-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kitchiebersabal263-sketch&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=9333EA&text_color=FFFFFF&hide=issues,prs" alt="GitHub Stats" />
 </a>
 
 <a href="https://github.com/kitchiebersabal263-sketch">
