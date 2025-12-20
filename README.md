@@ -1,11 +1,23 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kitchie+Awitan+Bersabal+%F0%9F%91%8B;IT+Student+%7C+Full-Stack+Developer+%7C+UI%2FUX+Designer;Building+Innovative+Web+%26+Mobile+Solutions+with+AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=3000&pause=1500&color=6366F1&center=true&vCenter=true&width=750&height=60&lines=👋+Hello%2C+I'm+Kitchie+Awitan+Bersabal;💻+Full-Stack+Developer+%7C+UI%2FUX+Designer;🤖+AI%2FML+Enthusiast+%7C+Mobile+App+Developer;✨+Building+Innovative+Solutions+with+Code" alt="Typing Animation" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-kitchiebersabal263--sketch-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitchiebersabal263-sketch)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kitchie%20Bersabal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kitchie-bersabal-67a0b7269)
-[![Telegram](https://img.shields.io/badge/Telegram-@itss_kii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/itss_kii)
-[![Email](https://img.shields.io/badge/Email-kitchie.bersabal@csucc.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kitchie.bersabal@csucc.edu.ph)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Kitchie+Bersabal&fontSize=42&animation=twinkling&fontColor=ffffff&fontAlignY=35" alt="Header Animation" />
+
+<div align="center">
+
+### 🚀 **Transforming Ideas into Digital Reality**
+
+**IT Student · Full-Stack Developer · UI/UX Designer · AI/ML Enthusiast**
+
+[![GitHub](https://img.shields.io/badge/GitHub-kitchiebersabal263--sketch-181717?style=for-the-badge&logo=github&logoColor=white&logoWidth=20)](https://github.com/kitchiebersabal263-sketch)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kitchie%20Bersabal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&logoWidth=20)](https://www.linkedin.com/in/kitchie-bersabal-67a0b7269)
+[![Telegram](https://img.shields.io/badge/Telegram-@itss_kii-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&logoWidth=20)](https://t.me/itss_kii)
+[![Email](https://img.shields.io/badge/Email-kitchie.bersabal@csucc.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white&logoWidth=20)](mailto:kitchie.bersabal@csucc.edu.ph)
+
+![Profile Views](https://komarev.com/ghpvc/?username=kitchiebersabal263-sketch&color=6366F1&style=for-the-badge&label=Profile+Views)
+
+</div>
 
 ---
 
@@ -15,23 +27,22 @@
 
 <div align="center">
 
-**Passionate IT Student | Full-Stack Developer | UI/UX Designer**
+**Passionate Developer | Creative Designer | Problem Solver**
 
 I'm a creative developer who transforms ideas into functional, beautiful applications. I specialize in building modern web and mobile solutions with a focus on user experience, clean code, and innovative technologies.
 
 </div>
 
-**What I Do:**
-- 🎨 **Design & Develop** beautiful, responsive web and mobile applications
-- 🤖 **Integrate AI/ML** capabilities into real-world applications
-- 💻 **Build Full-Stack** solutions with modern technologies
-- 🚀 **Create** production-ready applications with best practices
+<div align="center">
 
-**Current Focus:**
-- 🌱 Mastering **Flutter** mobile development and **AI/ML integration**
-- 🎯 Building **full-stack applications** with modern frameworks
-- 💡 Exploring **UI/UX design** principles and best practices
-- 🔥 Learning **Firebase** and cloud services integration
+| 🎯 **What I Do** | 🌱 **Current Focus** |
+|:----------------|:---------------------|
+| 🎨 Design & Develop beautiful applications | 🌱 Mastering Flutter & AI/ML integration |
+| 🤖 Integrate AI/ML capabilities | 🎯 Building full-stack applications |
+| 💻 Build Full-Stack solutions | 💡 Exploring UI/UX design principles |
+| 🚀 Create production-ready apps | 🔥 Learning Firebase & cloud services |
+
+</div>
 
 ---
 
@@ -70,13 +81,15 @@ I'm a creative developer who transforms ideas into functional, beautiful applica
 
 <div align="center">
 
-### **AI-Powered Mobile Classification App**
+### **🤖 AI-Powered Mobile Classification App**
 
 **Built with Flutter · TensorFlow Lite · Firebase**
 
 An intelligent mobile application that uses machine learning to identify and classify different types of knives in real-time. Features a modern neon-themed UI, comprehensive analytics, and cloud synchronization.
 
 [![Repository](https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitchiebersabal263-sketch/Bersabal_Knives_Classification_FinalProject)
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 
 </div>
 
@@ -101,15 +114,15 @@ An intelligent mobile application that uses machine learning to identify and cla
 
 <div align="center">
 
-### **Complete App Interface Preview**
+### **📱 Complete App Interface Preview**
 
-#### **Scan & Detection Screens**
+#### **🔍 Scan & Detection Screens**
 
 | Scan Screen 1 | Scan Screen 2 | Scan Screen 3 |
 |:-------------:|:-------------:|:-------------:|
 | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_01.jpg" alt="Scan Screen 1" width="250" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_01.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_02.jpg" alt="Scan Screen 2" width="250" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_02.jpg) | [<img src="https://raw.githubusercontent.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/main/APPLICATION_SCREENSHOTS/SCAN_03.jpg" alt="Scan Screen 3" width="250" />](https://github.com/kitchiebersabal263-sketch/kitchiebersabal263-sketch/blob/main/APPLICATION_SCREENSHOTS/SCAN_03.jpg) |
 
-#### **Analytics & History Screens**
+#### **📊 Analytics & History Screens**
 
 | Analytics Dashboard | Analytics Overview | Scan History | History Logs |
 |:-------------------:|:------------------:|:------------:|:------------:|
@@ -123,7 +136,7 @@ An intelligent mobile application that uses machine learning to identify and cla
 
 <div align="center">
 
-**10 Knife Types Supported by the AI Model**
+**🔟 10 Knife Types Supported by the AI Model**
 
 | Knife Type | Preview | Description |
 |:-----------|:-------:|:------------|
@@ -218,6 +231,8 @@ An intelligent mobile application that uses machine learning to identify and cla
 ---
 
 <div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling&fontColor=ffffff" alt="Footer Animation" />
 
 ### 💡 Fun Fact
 
